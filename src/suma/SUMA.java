@@ -28,7 +28,8 @@ public class SUMA {
             }
             
             int suma = num1 + num2;
-            System.out.println("La suma de los dos numeros es: " + suma);
+            System.out.println("La suma de los dos numeros es: "
+                    + suma);
             
             System.out.println("Desea realizar otra operacion (Ingrese 2 para si, otro numero para salir)");
             opcion = scanner.nextInt();
